@@ -1,5 +1,5 @@
 # Precise-Diagnosis-of-Parksinsons-Disease
-A Regression approach for the automated detection of the Parkinsons Disease based on Ensemble Learning.
+A Regression approach for the automated detection of the Parkinson's Disease based on an Ensemble of Neural Networks.
 Note that this is a Work in Progress.
 
 
