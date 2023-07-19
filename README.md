@@ -31,6 +31,13 @@ The primary incentive of this paper is to introduce an automated PD diagnosis fr
 ## ◘ Methodology
 The primary initiative of this paper is to develop a robust intelligence system for the diagnosis of PD by means of multifarious Neural Networks based on the classes of ensemble methods. Each network is devised for the bootstrap aggregation and stacked generalization techniques, while a forward-stage boosting algorithm is applied for boosting system for comparative analysis. All samples of data are amalgamated with a Gaussian synthetic sampling technique to elevate the scope of the sample followed by processing using an attribute selection procedure incorporating an estimator model for computing the feature importance. The designated significant ranking attributes are selected for the regression analysis of the total Parkinson’s scale, or Total-UPDRS, in the aforementioned models, and the universal generalizability of the standalone models as well as their involvement in the ensemble approach are dissected and assessed to evaluate the most effective predictive model or approach with minimum discrepancies for the diagnosis of PD. 
 
+</br>
+
+## ◘ Flowchart for the proposed System
+![alt text](https://github.com/shahriar-rahman/Precise-Diagnosis-of-Parksinsons-Disease/blob/main/img/FlowChart.png)
+
+</br>
+
 ## ◘ Data Scaling
 Upon deeper introspection, the range and the scale of the attributes were ubiquitous. Case in point from Table 2, the Respiratory Exchange Latency can diverge from 90 to more than 115 milliseconds, forming a conspicuous pattern that is also indistinguishable from the Rate of Speech as it oscillates at a higher magnitude ranging from 70 to over 100 speeches per minute. On the contrary, the Hoehn and Yahr scale is observed to have trivial aberrations ranging from 0.1 to 0.5 scale. Therefore, the feature information is scaled using the Standardization technique, readjusting with a statistical function presented in equation 2 to harmonize the data across the models, especially Neural Networks, as the values get converged around the mean with a unit of standard deviation.
 ```
@@ -45,9 +52,5 @@ The allocation strategy of the data is based on the Pareto Principle which state
 
 </br>
 
-## ◘ Flowchart for the proposed System
-![alt text](https://github.com/shahriar-rahman/Precise-Diagnosis-of-Parksinsons-Disease/blob/main/img/FlowChart.png)
-
-</br>
 
 
