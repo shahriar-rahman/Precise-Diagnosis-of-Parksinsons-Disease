@@ -13,7 +13,7 @@ Parkinson’s disease (PD) is one of the most ubiquitous progressive and chronic
 
 </br>
 
-## ◘ Distribution Visualization
+## ◘ UPDRS Distribution Visualization
 ![alt text](https://github.com/shahriar-rahman/Precise-Diagnosis-of-Parksinsons-Disease/blob/main/Diagrams/PD-Distribution.PNG)
 
 </br>
