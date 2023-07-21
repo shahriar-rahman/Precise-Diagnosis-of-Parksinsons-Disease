@@ -1,6 +1,6 @@
 # Precise Diagnosis of Parkinson's Disease using an Ensemble of Neural Networks
 A Regression approach for the automated detection of Parkinson's Disease based on an Ensemble of Neural Networks.
-Note that this is still a Work in Progress, and numerous modifications and updates will follow.
+Please note that this is still a Work in Progress, and numerous modifications and updates will follow.
 
 </br>
 
